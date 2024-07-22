@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="isn_t_life_is_collection_of_weird_quizzes_with_n_no_answers_to_half_of_the_questions">Isn\'t life is collection of weird quizzes with\n no answers to half of the questions ?</string>
+    <string name="welcome_to_the_quiz_master">Welcome to the Quiz Master</string>
+    <string name="login_logo">Login Logo</string>
+    <string name="get_started">Get Started</string>
+    <string name="stay_connected">Stay Connected</string>
+    <string name="enter_your_email_address_and_password_to_get_access_n_to_your_account">Enter your email address and password to get access to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="login_now">Login Now</string>
+    <string name="please_login_to_continue_using_app">Please login to continue using app</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="full_name">Full Name</string>
+    <string name="quiz_yourself_daily">Quiz Yourself Daily</string>
+    <string name="rate_us">Rate us</string>
+    <string name="follow_us">Follow us</string>
+    <string name="profile">Profile</string>
+    <string name="icon">icon</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="_21_07_2024">21-07-2024</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="option_1">Option 1</string>
+    <string name="btn">btn</string>
+</resources>
